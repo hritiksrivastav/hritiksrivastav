@@ -1,99 +1,87 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Hritik+Srivastav!;Full+Stack+Web+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+Build+Modern+MERN+%2B+Django+Apps+%F0%9F%9A%80;Clean+UI+%7C+Scalable+Backend+%7C+Realtime+Features+%F0%9F%94%8A" />
-</p>
+<!-- Glowing Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&center=true&vCenter=true&width=1000&height=80&lines=Hey+%F0%9F%91%8B+I'm+Hritik+Srivastav!;Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+%2B+Django+%2B+Firebase+%F0%9F%94%91;Clean+UI+%2B+Real-time+Data+%E2%9A%A1" alt="Typing SVG" />
+</div>
 
----
+<!-- Frame Effect -->
+<div style="border: 2px dashed #f37335; border-radius: 15px; padding: 25px; margin: 20px; background: linear-gradient(to right, #2c2c54, #40407a); color: white; box-shadow: 0 0 15px #f37335;">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+<h2 align="center">🚀 Hritik Srivastav | Full Stack Web Developer</h2>
 
-<h2 align="center">🚀 Hritik Srivastav | Full Stack Developer</h2>
 <p align="center">
   <i>"Code is not just about logic — it's about creating something meaningful."</i><br>
-  <b>B.Tech CSE | MERN | Django | Firebase | Clean UI/UX | Realtime Data</b>
+  <b>B.Tech CSE | MERN | Django | Firebase | UI/UX | Clean Architecture</b>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-- 🎓 Final year B.Tech CSE student from **Gorakhpur, India**
-- 🛠️ Currently working on an **EV Charging Station Dashboard**
-- 🌐 I love building **scalable, responsive, and real-time full stack apps**
-- 💬 Ask me about **React, Firebase, Django, MongoDB, APIs, UI/UX**
-- 📫 Reach me: **hritiksrivastav.dev@gmail.com**
-- ⚡ Fun fact: I turn caffeine into clean code ☕
+- 🎓 Final year B.Tech (CSE) student from **Gorakhpur, India**
+- 🔭 Working on: **EV Charging Dashboard (Realtime + Firebase + React)**
+- 💡 Love working on **scalable apps, dashboards, and clean UI**
+- ✉️ Reach me: hritiksrivastav.dev@gmail.com
+- ⚡ Fun fact: I can turn coffee into production code 😄
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Skills & Tools
 
 <p align="center">
-  <img title="HTML5" src="https://skillicons.dev/icons?i=html" />
-  <img title="CSS3" src="https://skillicons.dev/icons?i=css" />
-  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" />
-  <img title="React.js" src="https://skillicons.dev/icons?i=react" />
-  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
-  <img title="Express.js" src="https://skillicons.dev/icons?i=express" />
-  <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />
-  <img title="Firebase" src="https://skillicons.dev/icons?i=firebase" />
-  <img title="Django" src="https://skillicons.dev/icons?i=django" />
-  <img title="Python" src="https://skillicons.dev/icons?i=python" />
-  <img title="Git" src="https://skillicons.dev/icons?i=git" />
-  <img title="GitHub" src="https://skillicons.dev/icons?i=github" />
-  <img title="VSCODE" src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,django,python,firebase,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hritik-srivastav&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hritik-srivastav&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hritik-srivastav&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hritik-srivastav&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hritik-srivastav&theme=tokyonight&utcOffset=+5.5" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hritik-srivastav&show_icons=true&theme=radical&hide_border=false&border_radius=15" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hritik-srivastav&theme=radical&hide_border=false&border_radius=15" height="165"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hritik-srivastav&theme=matrix&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hritik-srivastav&theme=onedark&row=1&margin-w=10&no-frame=false" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+### 🔥 Contribution Graph
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your_linkedin" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn"/></a>
-  <a href="https://www.instagram.com/your_instagram" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new.png" title="Instagram"/></a>
-  <a href="https://wa.me/91xxxxxxxxxx" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp.png" title="WhatsApp"/></a>
-  <a href="https://facebook.com/your_facebook" target="_blank"><img src="https://img.icons8.com/color/48/facebook-new.png" title="Facebook"/></a>
-  <a href="mailto:hritiksrivastav.dev@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" title="Gmail"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritik-srivastav&theme=react-dark&hide_border=false" />
 </p>
 
 ---
 
-## 🧮 Visitor Counter & Quotes
+### 💬 Contact & Socials
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hritik-srivastav&label=Profile%20Views&color=blueviolet&style=flat" />
-  <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <a href="https://www.linkedin.com/in/your_linkedin"><img src="https://img.icons8.com/color/48/linkedin.png" /></a>
+  <a href="https://www.instagram.com/your_instagram"><img src="https://img.icons8.com/color/48/instagram-new.png" /></a>
+  <a href="https://wa.me/91xxxxxxxxxx"><img src="https://img.icons8.com/color/48/whatsapp.png" /></a>
+  <a href="https://facebook.com/your_facebook"><img src="https://img.icons8.com/color/48/facebook-new.png" /></a>
+  <a href="mailto:hritiksrivastav.dev@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" /></a>
 </p>
 
 ---
 
-<!-- Footer -->
+### 📈 Visitors Counter & Quotes
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hritik-srivastav&label=Profile%20Views&color=f37335&style=flat-square" />
+  <br/><br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+</p>
+
+</div>
+
+<!-- Final Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F37335,100:FDC830&height=140&section=footer"/>
 </div>
+
