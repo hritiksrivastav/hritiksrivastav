@@ -1,70 +1,81 @@
-<h1 align="center">Hi 👋, I'm Hritik Srivastav</h1>
-<h3 align="center">🚀 Full Stack Web Developer | MERN | Django | Firebase | HTML | CSS | JS | Python</h3>
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDC830,100:F37335&height=230&section=header&text=Hritik%20Srivastav%20🚀&fontSize=50&fontColor=fff&animation=twinkling"/>
+</div>
+
+<!-- Intro -->
+<h2 align="center">Hi there 👋, I'm Hritik Srivastav</h2>
+<h4 align="center">⚡ Full Stack Developer | MERN | Django | Firebase | Python | UI/UX Enthusiast</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Building+Web+Experiences+%F0%9F%9A%80;Writing+Code+With+Purpose+%F0%9F%92%BB;Designing+With+Passion+%F0%9F%92%A1" alt="Typing SVG" />
+  <i>"Code is not just about logic — it's about creating something meaningful."</i><br>
+  — <b>Hritik Srivastav</b>
 </p>
 
 ---
 
-🌟 **Quote I Live By**  
-> _"Code is not just about logic—it's about creating something meaningful."_ — **Hritik Srivastav**
+## 🧠 About Me
+
+- 🎓 B.Tech CSE Final Year | Gorakhpur, India  
+- 💻 Passionate about building scalable full stack web apps  
+- 🛠️ Currently working on: **EV Charging Dashboard (React + Firebase)**  
+- 🌱 Learning: **Django REST API + Real-time data with Firebase**  
+- 💬 Ask me about: MERN, Firebase, Django, Clean UI Design  
+- 📫 Email me: **hritiksrivastav.dev@gmail.com**
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🔭 Currently working on **EV Dashboard using Firebase & React**
-- 🧠 Exploring **Django REST, Websockets, and Real-time Firebase**
-- 💬 Ask me about **Full Stack Web Development, Firebase, Django, MERN, and UI/UX**
-- 📫 Reach me at: **hritiksrivastav.dev@gmail.com**
-- ⚡ Fun fact: I debug with a playlist and a coffee ☕🎧
-
----
-
-## 🛠️ Skills & Tech Stack
-
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### ⚙️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hritik-srivastav&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritik-srivastav&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hritik-srivastav&theme=dracula&row=1&column=7"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,django,python,firebase,git,github,figma,vscode" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 📈 GitHub Performance
 
 <p align="center">
-  <a href="https://www.instagram.com/your_instagram" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://wa.me/your_number" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your_linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/your_facebook" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:hritiksrivastav.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hritik-srivastav&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hritik-srivastav&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hritik-srivastav&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hritik-srivastav&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hritik-srivastav&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-⭐ _Thanks for stopping by! Let’s build something amazing together._
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hritik-srivastav&theme=darkhub&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your_linkedin" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="https://www.instagram.com/your_instagram" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new.png"/></a>
+  <a href="https://wa.me/91xxxxxxxxxx" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp.png"/></a>
+  <a href="https://facebook.com/your_facebook" target="_blank"><img src="https://img.icons8.com/color/48/facebook-new.png"/></a>
+  <a href="mailto:hritiksrivastav.dev@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
+</p>
+
+---
+
+## 🔥 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hritik-srivastav&label=Profile%20Visitors&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F37335,100:FDC830&height=140&section=footer"/>
+</div>
+
 
