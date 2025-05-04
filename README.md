@@ -55,6 +55,10 @@
   <img alt="Hritik's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hritiksrivastav&theme=react-dark" />
 </a>
 
+## 📧 Contact Me:
+If you wish to get in touch, feel free to email me at:  
+[hrithiksrivas33@gmail.com](mailto:hrithiksrivas33@gmail.com)
+
 
 
 
