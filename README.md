@@ -1,78 +1,42 @@
-<!-- 🌟 HEADER: Animated Typing + Gradient Glow -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=F37335&center=true&vCenter=true&width=1000&height=70&lines=Hey+%F0%9F%91%8B+I'm+Hritik+Srivastav!;Full+Stack+Web+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;MERN+%2B+Django+%2B+Firebase+Expert;Building+Scalable+Apps+with+Passion+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
+<h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm <a href="https://www.linkedin.com/in/hritiksrivastav/" target="_blank">Hritik</a></h1> 
 
-<!-- GLOW BOX START -->
-<div style="border: 2px dashed #f37335; border-radius: 15px; padding: 30px; margin: 20px; background: linear-gradient(to right, #2c2c54, #40407a); color: white; box-shadow: 0 0 25px #f37335;">
-
-<h2 align="center">🌐 Full Stack Web Developer</h2>
-
-<p align="center">
-  <b>"I don't just write code — I craft scalable, responsive experiences that solve real problems."</b><br/><br/>
-  💻 Currently building <b>real-time EV charging dashboards</b> <br/>
-  🌱 Always learning new technologies, especially in the <b>Realtime, Cloud, and UI/UX</b> space <br/>
-  🧠 Focused on writing clean, modular code and efficient APIs <br/>
-  ✨ Passionate about Open Source, Dev Tools & Web Performance
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,django,python,firebase,git,github,vscode,figma" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hritik-srivastav&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hritik-srivastav&theme=tokyonight&hide_border=false&border_radius=15" height="165"/>
-</p>
-
----
-
-### 🧠 Achievements & Graph
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hritik-srivastav&theme=gruvbox&no-frame=false&margin-w=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritik-srivastav&theme=react-dark&hide_border=false" />
-</p>
-
----
-
-### 📬 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your_linkedin" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" /></a>
-  <a href="https://www.instagram.com/your_instagram" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new.png" /></a>
-  <a href="https://wa.me/91xxxxxxxxxx" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp.png" /></a>
-  <a href="https://facebook.com/your_facebook" target="_blank"><img src="https://img.icons8.com/color/48/facebook-new.png" /></a>
-  <a href="mailto:hritiksrivastav.dev@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" /></a>
-</p>
-
----
-
-### 📈 Visitors & Dev Quote
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hritik-srivastav&label=Profile%20Views&color=brightgreen&style=flat-square" />
-  <br/><br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
+<div id="header" align="center">  
+<!-- Optional header GIF -->
 </div>
 
-<!-- 🌊 FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=120&section=footer"/>
-  <br/>
-  <h4>✨ Let's build something great together. Reach out anytime! 🚀</h4>
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE'25+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)
+
 </div>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/hritiksrivastav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+    <a href="https://www.youtube.com/@hritiksrivastav" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://instagram.com/hritiksrivastav" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="mailto:hritiksrivastav@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</div>
+
+<h3 align="center">Technologies & Tools:</h3>
+<p align="center">
+  <!-- Same badges, updated to `flat` style for budget look -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  ...
+</p>
+
+## PROFILE STATISTICS:
+
+<a href="https://github.com/hritiksrivastav/github-readme-stats"><img alt="Hritik GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hritiksrivastav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/hritiksrivastav/github-readme-stats"><img alt="Hritik Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritiksrivastav&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<a href="https://github.com/hritiksrivastav">
+  <img alt="Hritik's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hritiksrivastav&theme=react-dark" />
+</a>
+
 
