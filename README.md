@@ -1,67 +1,67 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40"> I'm <a href="https://www.linkedin.com/in/hritiksrivastav/" target="_blank">Hritik</a></h1>
 
 <div align="center">
-    
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+GitHub+profile!;CSE'25+Undergrad;Passionate+about+Full+Stack+Development+%26+AI)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hritiksrivastav/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" style="border-radius:50%; margin: 10px;" />
   </a>
   <a href="https://www.youtube.com/@hritiksrivastav" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" style="border-radius:50%; margin: 10px;" />
   </a>
   <a href="https://instagram.com/hritiksrivastav" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" style="border-radius:50%; margin: 10px;" />
   </a>
   <a href="mailto:hritiksrivastav@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" style="border-radius:50%; margin: 10px;" />
   </a>
 </div>
 
 ---
 
-### 🛠️ Tools & Technologies:
+### 🛠️ Tools & Technologies
 
-<p align="center">
+<div align="center">
 
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" />
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" style="border-radius:50%; margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" style="border-radius:50%; margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" style="border-radius:50%; margin: 10px;" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-tailwind-css-a-utility-first-css-framework-for-rapid-ui-development-logo-color-tal-revivo.png" alt="Tailwind CSS" style="border-radius:50%; margin: 10px;" />
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" style="border-radius:50%; margin: 10px;" />
 
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white" />
+  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" style="border-radius:50%; margin: 10px;" />
+  <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js" style="border-radius:50%; background:white; padding:5px; margin: 10px;" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/django.png" alt="Django" style="border-radius:50%; background:white; padding:5px; margin: 10px;" />
 
   <!-- Database -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" style="border-radius:50%; margin: 10px;" />
 
-  <!-- Languages & AI -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/CNN-FF6F61?style=plastic&logo=tensorflow&logoColor=white" />
+  <!-- AI & Languages -->
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" style="border-radius:50%; margin: 10px;" />
+  <img src="https://img.icons8.com/fluency/48/opencv.png" alt="OpenCV" style="border-radius:50%; margin: 10px;" />
+  <img src="https://img.icons8.com/3d-fluency/50/artificial-intelligence.png" alt="CNN" style="border-radius:50%; margin: 10px;" />
 
-</p>
+</div>
 
 ---
 
-### 📈 GitHub Stats:
+### 📈 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/hritiksrivastav/github-readme-stats">
-    <img alt="Hritik GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hritiksrivastav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Hritik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hritiksrivastav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
-  <br/>
+  <br />
   <a href="https://github.com/hritiksrivastav/github-readme-stats">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritiksrivastav&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
@@ -69,7 +69,7 @@
 
 ---
 
-### 📊 Activity Graph:
+### 📊 Activity Graph
 
 <div align="center">
   <a href="https://github.com/hritiksrivastav">
@@ -85,7 +85,9 @@
 
 ---
 
-🌟 _Thanks for visiting! Let's connect and collaborate._ 🚀
+🌟 _Thanks for visiting! Let’s connect and build something awesome._ 🚀
+
+
 
 
 
